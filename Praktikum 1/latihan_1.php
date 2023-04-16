@@ -10,7 +10,7 @@
         echo "nilai = " , $nilai_3;
         echo "<br>";
         $jumlah = $nilai_1 + $nilai_2;
-        echo "hasil dari $nilai_1 + $nilai_2 adalah : &jumlah"; echo "<br><br>";
+        echo "hasil dari $nilai_1 + $nilai_2 adalah : $jumlah"; echo "<br><br>";
         echo "\"Nama : Vioneta Zarazsofia Permatasari\" <br>";
         echo "NPM : 21082010010";
         ?>
